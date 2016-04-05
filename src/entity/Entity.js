@@ -13,8 +13,8 @@ class Entity extends Phaser.Sprite {
 		super(game, x, y, rect);
 
     this.game = game;
-    this.width = s;
-    this.height = s;
+    this.width = px;
+    this.height = px;
 
 		// set origin to the middle of the sprite
     this.anchor.set(0.5);
