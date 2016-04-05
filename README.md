@@ -4,7 +4,7 @@
 
 Clone the repository
 
-`git clone https://github.com/belohlavek/phaser-es6-boilerplate.git`
+`git clone https://github.com/NateTheGreatt/ProjectMarzen.git`
 
 Install dependencies
 
